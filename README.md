@@ -1,81 +1,114 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ╔══════════════════════════════════════════════════════════════╗
+     ║                    AMARO • GITHUB PROFILE                   ║
+     ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:7C3AED&height=220&section=header&text=Francisco%20Javier%20Lopez&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111827,65:312E81,100:7C3AED&height=280&section=header&text=AMARO&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%2F%2F%20BUILDER%20%2F%2F%20CREATOR&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+things+on+the+internet.;Turning+ideas+into+real+projects.;Learning.+Building.+Improving.;Welcome+to+my+GitHub." />
+
+<br><br>
+
 <a href="https://github.com/Franlopezam">
-  <img src="https://komarev.com/ghpvc/?username=Franlopezam&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Franlopezam&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 </a>
 
 </div>
 
 <br>
 
-<!-- ========================= ABOUT ========================= -->
+---
 
-## 👋 Hey, I'm Amaro
+<div align="center">
+
+### `> whoami`
+
+</div>
 
 ```js
-const developer = {
-    username: "Franlopezam",
+const amaro = {
     role: "Developer",
     location: "Mexico 🇲🇽",
-    currentlyLearning: [
+    mindset: "Always learning",
+    
+    building: [
+        "Web applications",
+        "Software projects",
+        "Personal tools",
+        "Ideas that become reality"
+    ],
+
+    learning: [
         "JavaScript",
         "Python",
         "React",
         "C++"
     ],
+
     interests: [
-        "Web Development",
-        "Software",
+        "Technology",
+        "Programming",
         "Gaming",
-        "Technology"
+        "Software"
     ],
-    goal: "Build useful things and keep getting better."
+
+    motto: "Build. Break. Learn. Repeat."
 };
 ```
 
-I'm a developer focused on **learning, building and experimenting with technology**.
+<br>
 
-I enjoy turning ideas into real projects, exploring new technologies and improving my programming skills through practical projects.
+<div align="center">
 
-> ⚡ *Build it. Break it. Learn from it. Build it better.*
+> **I don't just want to learn how technology works — I want to build with it.**
+
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+# ⚡ About Me
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%" valign="top">
 
-### 💻 Development
+### 👨‍💻 Developer
 
-Building personal projects and experimenting with different technologies.
+I'm a developer who enjoys **building things from scratch**, experimenting with technology and turning ideas into working projects.
 
-**Current focus:**
+I'm constantly improving my programming skills through personal projects and hands-on experimentation.
 
-* 🌐 Web development
-* ⚡ JavaScript
-* 🐍 Python
-* ⚛️ React
-* 🧠 Programming fundamentals
+### 🔭 Currently
+
+* Building personal projects
+* Learning new technologies
+* Improving my programming fundamentals
+* Experimenting with web development
+* Exploring software architecture
 
 </td>
 
-<td width="50%">
+<td width="45%" valign="top">
 
-### 🎯 Goals
+### 🎯 Focus
 
-* Build larger and more complete projects
-* Improve software architecture
-* Learn new technologies
-* Contribute to interesting projects
-* Create things people can actually use
+```text
+┌──────────────────────────┐
+│                          │
+│   CODE       ████████░░  │
+│   BUILD      █████████░  │
+│   LEARN      ██████████  │
+│   CREATE     █████████░  │
+│                          │
+└──────────────────────────┘
+```
+
+**Main goal**
+
+Build better software with every project.
 
 </td>
 </tr>
@@ -83,35 +116,99 @@ Building personal projects and experimenting with different technologies.
 
 ---
 
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=js,python,cpp,html,css" />
-</p>
-
-### Frameworks & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,git,github,vscode" />
-</p>
-
----
-
-# 📌 Featured Projects
+# 🧠 Tech Stack
 
 <div align="center">
 
-<a href="https://github.com/Franlopezam">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Franlopezam&repo=Nexora&theme=github_dark&hide_border=true" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=javascript,python,cpp,html,css&theme=dark" />
+
+<br><br>
+
+### Frameworks & Tools
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+# 🚀 What I'm Building
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🏢 Nexora
+
+**Business Management Platform**
+
+A modern mini-SaaS focused on administration, dashboards, users and business tools.
+
+<br>
+
+`JavaScript` `HTML` `CSS`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🎮 Elauncher
+
+**Minecraft Project**
+
+A personal launcher ecosystem focused on customization, tools and Minecraft-related features.
+
+<br>
+
+`Python` `JavaScript`
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧪 More Projects
+
+**Experiments & Ideas**
+
+Small projects, experiments and prototypes used to learn new technologies and develop new ideas.
+
+<br>
+
+`Various`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📂 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Franlopezam/Nexora">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Franlopezam&repo=Nexora&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9" />
 </a>
 
 </div>
 
 <br>
 
-> 🚧 More projects are currently being built.
+<div align="center">
+
+<a href="https://github.com/Franlopezam?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
@@ -119,9 +216,9 @@ Building personal projects and experimenting with different technologies.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Franlopezam&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Franlopezam&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franlopezam&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franlopezam&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=6" />
 
 </div>
 
@@ -129,42 +226,80 @@ Building personal projects and experimenting with different technologies.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Franlopezam&theme=github-dark-blue&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Franlopezam&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B5CF6&fire=7C3AED&currStreakLabel=8B5CF6" width="70%" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Franlopezam&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Franlopezam&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=FFFFFF&area_color=312E81&area=true&hide_border=true&custom_title=AMARO%27S%20CONTRIBUTION%20GRAPH" width="100%"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Franlopezam&bg_color=0d1117&color=58a6ff&line=7c3aed&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Franlopezam&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" width="95%"/>
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 💡 Developer Philosophy
 
 <div align="center">
 
-<a href="https://instagram.com/franlopezam">
-<img src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
-</a>
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🧠 Learn
+
+Every project is an opportunity to understand something new.
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Build
+
+Ideas become useful when you actually build them.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 Improve
+
+The next version should always be better than the last.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🌐 Connect
+
+<div align="center">
 
 <a href="https://github.com/Franlopezam">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/franlopezam">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
 </div>
@@ -173,14 +308,21 @@ Building personal projects and experimenting with different technologies.
 
 <div align="center">
 
-### 💬 Let's build something interesting.
+### `Let's build something.`
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=6B7280&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile.;More+projects+coming+soon...;Stay+curious.;Keep+building." />
 
 </div>
 
-<!-- ========================= FOOTER ========================= -->
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:7C3AED&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:312E81,100:050816&height=140&section=footer" width="100%"/>
 
 <!--
-Designed for Franlopezam
+    AMARO
+    Developer / Builder / Creator
+
+    Keep building.
 -->
